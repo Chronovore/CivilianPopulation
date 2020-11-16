@@ -12,6 +12,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		jenkins.txt = jenkins.txt
 		KerbalChangeLog.cfg = KerbalChangeLog.cfg
 		License.md = License.md
+		Readme.md = Readme.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CivilianPopulation", "CivilianPopulation\CivilianPopulation.csproj", "{DD027844-CCFC-49DB-943D-B686BB86C55F}"

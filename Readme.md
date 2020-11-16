@@ -180,3 +180,9 @@ DONE :
 - Civilian recruitment process : The button recruit of the university will turn civilian living in this university into regular kerbals with a random choosen profession.
 - Civilian breeding growth : If allowed (From a Habitat part or the contractors dock), Kerbals will breed. Females give birth after 320 (3/4 of a Kerbin Year) days of pregnancy. Males can breed from 15yo females from 15yo to 45yo.
 - Civilian aging and death : Once a Kerbal reach 75yo, there (age-75)% chance per year that he dies from his old age any day during this year.
+
+Development Environment Setup
+-----------------------------
+1. Create an environment variable called `KSPDIR` that points to your development instance of Kerbal Space Program
+1. Create an environment variable called `DevEnvDir` that points to `texttransform.exe` (example: `%ProgramFiles(x86)%\Microsoft Visual Studio\2017\Community\Common7\IDE\`)
+
